@@ -1,0 +1,1 @@
+Comandos estãos nos arquvios .sh
